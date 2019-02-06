@@ -13,6 +13,7 @@ const HelpPage = () => (
                 <li><span className="list-number">1.</span><p>Click on <i>Add Expense</i> above to add a new expense.</p></li>
                 <li><span className="list-number"> 2.</span><p>View your added expenses on the <i>Dashboard</i> after adding an expense.</p></li>
                 <li><span className="list-number">3.</span><p>You can filter your expenses using date or amount from the dashboard.</p></li>
+                <li><span className="list-number">4.</span><p>Click on an expense from the dashboard to edit or remove it.</p></li>
             </ol>
         </div>
         </div>
