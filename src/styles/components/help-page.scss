@@ -1,0 +1,17 @@
+ol.help-list {
+    color: #ccc;
+    list-style-type: none;
+  }
+
+  ol.help-list li p {
+    font: 16px Helvetica, sans-serif;
+    padding-left: 60px;
+    color: #555;
+  }
+  ol.help-list li {
+      color: #555;
+  }
+
+  span.list-number {
+    position: absolute;
+  }
